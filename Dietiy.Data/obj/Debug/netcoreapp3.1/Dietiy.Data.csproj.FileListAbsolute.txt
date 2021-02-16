@@ -1,0 +1,15 @@
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Data\bin\Debug\netcoreapp3.1\Dietiy.Entities.dll
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Data\obj\Debug\netcoreapp3.1\Dietiy.Data.csprojAssemblyReference.cache
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Data\obj\Debug\netcoreapp3.1\Dietiy.Data.AssemblyInfoInputs.cache
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Data\obj\Debug\netcoreapp3.1\Dietiy.Data.AssemblyInfo.cs
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Data\bin\Debug\netcoreapp3.1\Dietiy.Data.deps.json
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Data\bin\Debug\netcoreapp3.1\Dietiy.Data.runtimeconfig.json
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Data\bin\Debug\netcoreapp3.1\Dietiy.Data.runtimeconfig.dev.json
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Data\bin\Debug\netcoreapp3.1\Dietiy.Data.dll
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Data\bin\Debug\netcoreapp3.1\Dietiy.Data.pdb
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Data\bin\Debug\netcoreapp3.1\Dietiy.Entities.pdb
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Data\obj\Debug\netcoreapp3.1\Dietiy.Data.csproj.CoreCompileInputs.cache
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Data\obj\Debug\netcoreapp3.1\Dietiy.Data.csproj.CopyComplete
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Data\obj\Debug\netcoreapp3.1\Dietiy.Data.dll
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Data\obj\Debug\netcoreapp3.1\Dietiy.Data.pdb
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Data\obj\Debug\netcoreapp3.1\Dietiy.Data.genruntimeconfig.cache

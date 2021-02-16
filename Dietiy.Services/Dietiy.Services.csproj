@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dietiy.Data\Dietiy.Data.csproj" />
+    <ProjectReference Include="..\Dietiy.Entities\Dietiy.Entities.csproj" />
+    <ProjectReference Include="..\Dietiy.Utilities\Dietiy.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Utilities\bin\Debug\netcoreapp3.1\Dietiy.Utilities.deps.json
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Utilities\bin\Debug\netcoreapp3.1\Dietiy.Utilities.dll
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Utilities\bin\Debug\netcoreapp3.1\Dietiy.Utilities.pdb
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Utilities\obj\Debug\netcoreapp3.1\Dietiy.Utilities.csprojAssemblyReference.cache
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Utilities\obj\Debug\netcoreapp3.1\Dietiy.Utilities.AssemblyInfoInputs.cache
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Utilities\obj\Debug\netcoreapp3.1\Dietiy.Utilities.AssemblyInfo.cs
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Utilities\obj\Debug\netcoreapp3.1\Dietiy.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Utilities\obj\Debug\netcoreapp3.1\Dietiy.Utilities.dll
+C:\Users\yozle\source\repos\Dietiy\Dietiy.Utilities\obj\Debug\netcoreapp3.1\Dietiy.Utilities.pdb
